@@ -1,0 +1,22 @@
+Compare 3
+UI 2
+Build 4
+Resources 3
+UserAssistance 2
+Debug 4
+Ant 3
+Core 3
+Scripting 2
+SWT 1
+Team 1
+Text 3
+Update 3
+
+
+
+
+
+
+
+
+
